@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Checker</string>
+    <string name="welcome_text">Let\'s check, how healthy you are</string>
+    <string name="name">Enter your name</string>
+    <string name="next_btn_text">Next</string>
+    <string name="fit_report">, You are </string>
+</resources>
